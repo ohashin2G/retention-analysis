@@ -1,0 +1,4 @@
+Model,ROC AUC,Best Threshold,F1 Score,Precision,Recall,Train Accuracy,Test Accuracy
+Logistic Regression,0.83532,0.57183,0.62916,0.55131,0.73262,0.80759,0.77043
+Random Forest,0.81844,0.38000,0.62168,0.53019,0.75134,0.80546,0.75693
+XGBoost,0.81938,0.32972,0.60000,0.51744,0.71390,0.80461,0.74698
